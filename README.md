@@ -5,3 +5,6 @@
 
 ## Toy Application
 - Demo of scaffolding in Ruby on Rails
+
+## Sample Application
+- Capstone Project
